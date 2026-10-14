@@ -4,6 +4,8 @@ Notebooks zum Talk *„Lokale Modelle selbst trainieren“* (Johann Hartmann, Ma
 selbst trainierte Modelle, alles mit öffentlichen Daten. Jedes Notebook läuft eigenständig in Google Colab:
 öffnen, GPU-Laufzeit wählen, *Alle ausführen*.
 
+Die [Präsentation mit 45 Folien](talk/index.html) und ihre [statische Reserveansicht](talk/reserve.html) liegen unter `talk/`.
+
 | | Notebook | Was trainiert wird | Fertiges Modell |
 |---|---|---|---|
 | 01 | [![In Colab öffnen](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mayflower/local-training-talk-notebooks/blob/main/01_colbert_produkte_trainieren_colab.ipynb) **Produktsuche mit ColBERT** | `mLateOn` auf Amazon ESCI, Full-Fine-Tuning, Evaluation gegen BM25, Dense und Basismodell | [mlateon-esci-product-search](https://huggingface.co/johannhartmann/mlateon-esci-product-search) |
